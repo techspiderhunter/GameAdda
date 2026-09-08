@@ -66,5 +66,4 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 If you have questions, suggestions, or concerns regarding this Privacy Policy, you can contact us at:
 
 * **App Name:** Game Adda
-* **Developer/Support Email:** [Insert your contact email here]
-* **Website:** [Insert your website or landing page URL, if applicable]
+* **Developer/Support Email:** techmayank75@gmail.com
